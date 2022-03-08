@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/apps/thorin-flask-alba/deploy/github
+https://thorin-flask-alba.herokuapp.com/
